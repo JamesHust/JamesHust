@@ -1,7 +1,7 @@
-- 👋 Hi, I’m James. I am 22 years old.
-- 👀 I’m interested in playing game pc with my friend, watch film,... 
-- 🌱 I’m currently learning React, React Native
-- 💞️ I’m looking to collaborate on work
+- 👋 Hi, I am James. I am 23 years old.
+- I am interested in playing game pc with my friend, watch film,... 
+- Currently, I am a software engineer at FPT Smart Cloud company.
+- Skill: Developing Web - Backend(NodeJS: ExpressJS, NestJS; Java: SpringBoot;...) - Frontend(Javascript(ReactJs, VueJs), HTML, CSS,...).
 - 📫 hungjame99@gmail.com or hung.mt0812@gmail.com
 
 

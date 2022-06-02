@@ -1,6 +1,4 @@
-<p align="center">
-  <a href=https://www.facebook.com/osphiuchus99" target="blank"><img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/269761851_1939128366295594_6272355829539879700_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=39yjFFlyUEMAX87NEmw&_nc_ht=scontent.fsgn2-4.fna&oh=00_AT8RI0bOjJsDBen2ywk4T5Q2g1UV3k88KwdbCcK0q42N8A&oe=62086D92" width="320" alt="FPT.AI Logo" /></a>
-</p>
+Thế Hưng (James)
 
 - 👋 Hi, I am James. I am 23 years old.
 - I am interested in playing game pc with my friend, watch film,... 

@@ -10,7 +10,7 @@
 
 
 My name is Hung. I am 24 years old and I am a seniors at Hanoi University of Science and Technology. 
-I have got 3 years experience in programming language as Java, HTML, CSS, Javascript, jQuery and 1 year experience in programming language as React, React Native, NodeJS. 
+I have got 3 years experience in programming language as Java, HTML, CSS, Javascript, jQuery and 2 year experience in programming language as React, React Native, NodeJS. 
 I have got 7 projects programmed in these languages.
 Besides, my internship experience and other practical projects in the MISA company as eSign, CukCuk,... Currently, 
 I am developing a application project quick ordering by voice for graduation project.

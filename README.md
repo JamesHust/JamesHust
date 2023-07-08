@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://dev.to/jameshust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jameshust" height="30" width="40" /></a>
   <a href="https://twitter.com/hungjame99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hungjame99" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/thế-hưng-2b8915192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thế-hưng-2b8915192" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/the-hung-2b8915192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thế-hưng-2b8915192" height="30" width="40" /></a>
   <a href="https://fb.com/osphiuchus99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osphiuchus99" height="30" width="40" /></a>
 </p>
 

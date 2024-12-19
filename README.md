@@ -10,13 +10,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamesHust](https://github.com/JamesHust?tab=repositories)
 
-- 💬 Ask me about **Vue, React, Django**
+- 💬 Ask me about **Vue.js, React, Next.js, Django**
 
-- 📫 How to reach me **hungjame99@gmail.com** or **hungmt.0812@gmail.com**
-
+- 📫 How to reach me **hungmt.0812@gmail.com** or **hungjame99@gmail.com**
 - 👋 I am interested in playing games with my friend, watching the film,... 
 
-📄 I'm a Full-stack Developer (Middle) from Vietnam. I have over three years of experience in programming languages such as JavaScript and Python, and Java, as well as proficiency in various frameworks like Vue, React, React Native, Angular, Node-ExpressJs, NestJs, Django, and more. I've worked on large-scale projects such as MISA Cukcuk, MyCC, FPT.AI Chatbot, FPT.AI Knowledge Base, and FPT.AI Engage. In addition, I am also a freelancer involved in the development of overseas projects such as Red Bull Dance Your Style,... Overall, I'm passionate about software development and believe that my skills and experience make me a valuable asset to any team.
+📄 I'm a Full-stack Developer (Senior) from Vietnam. I have over 4 years of experience in programming languages such as JavaScript, Python, and Java, as well as proficiency in various frameworks like Vue.js, React, Next.js, Angular, Node-ExpressJs, NestJs, Django, and more. I've worked on large-scale projects such as FPT.AI Agents, FPT.AI EngageFPT.AI Knowledge Base, MISA CUKCUK... In addition, I am also a freelancer involved in the development of overseas projects such as Red Bull Dance Your Style,... Overall, I'm passionate about software development and believe that my skills and experience make me a valuable asset to any team.
 
 
 <h3 align="left">Connect with me:</h3>
